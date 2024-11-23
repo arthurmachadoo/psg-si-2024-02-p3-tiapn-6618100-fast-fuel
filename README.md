@@ -16,7 +16,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 * Gabriel Carlos
 * Caio Maranhao 
 
-## 
+## Michele Hanne
 
 * Nome completo do professor 1
 
