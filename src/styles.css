@@ -1,0 +1,125 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #2f2b27;
+    color: #f5e9d9;
+    display: flex;
+    height: 100vh;
+  }
+  
+  .container {
+    display: flex;
+    width: 100%;
+  }
+  
+  .sidebar {
+    width: 25%;
+    background-color: #220901;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+  }
+  
+  .sidebar .logoUserInfo {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 30px;
+    text-align: center;
+  }
+
+  .sidebar .logoUserInfo .logoUserInfo {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .user-info {
+  }
+  
+  .user-info .points {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #f5e773;
+  }
+  
+  nav button {
+    display: block;
+    width: 100%;
+    margin-bottom: 15px;
+    padding: 10px;
+    border: none;
+    background-color: #f5e9d9;
+    color: #2f2b27;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  main {
+    flex-grow: 1;
+    padding: 20px; 
+    background-color: #fff;
+  }
+  
+  .services, .products {
+    margin-bottom: 40px;
+  }
+  
+.title {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+}
+
+  .title h2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #220901;
+    font-size: 1.5em;
+    margin-bottom: 20px;
+    margin-right: 20px;
+  }
+  
+  .register-button {
+    background-color: #220901;
+    border: none;
+    color: #fff;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    height: 50px;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  ul li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 15px;
+    padding: 10px;
+    background-color: #220901;
+    border-radius: 5px;
+  }
+  
+  .exchange-button {
+    background-color: #ffffff;
+    border: none;
+    color: #220901;
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  
+  
