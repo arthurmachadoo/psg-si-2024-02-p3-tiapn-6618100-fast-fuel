@@ -1,21 +1,22 @@
-# TÍTULO DO PROJETO
+# Fast Fuel
 
-`CURSO`
+`Sistemas de Informação`
 
-`DISCIPLINA`
+`Trabalho interdisciplinar`
 
-`SEMESTRE`
+`2 semestre`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Arthur Machado
+* Barbara Rosa
+* Mateus Matias 
+* Gabriel Carlos
+* Caio Maranhao 
 
-## Orientador
+## 
 
 * Nome completo do professor 1
 
